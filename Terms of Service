@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuddy – Terms of Service & Privacy Policy</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #262626;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 24px 20px 48px;
+            background: #f2ebe0;
+        }
+        .nav {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid rgba(153, 102, 38, 0.3);
+        }
+        .nav a {
+            color: #cc8033;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: #996626; font-size: 1.5rem; margin-bottom: 0.5rem; }
+        h2 {
+            color: #996626;
+            font-size: 1.15rem;
+            margin-top: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        p { margin: 0 0 1rem; }
+        ul { margin: 0 0 1rem; padding-left: 1.5rem; }
+        a { color: #cc8033; }
+    </style>
+</head>
+<body>
+    <h1>Cuddy</h1>
+    <nav class="nav">
+        <a href="#terms">Terms of Service</a>
+        <a href="#privacy">Privacy Policy</a>
+    </nav>
+
+    <h2 id="terms">Terms of Service</h2>
+    <p><em>Last updated: February 2026</em></p>
+    <p>Welcome to Cuddy (“we”, “our”, or “the app”). By using Cuddy, you agree to these Terms of Service.</p>
+
+    <h3>1. Description of Service</h3>
+    <p>Cuddy is a promo code search app that helps you find discount codes and offers for businesses. We aggregate publicly available information from coupon sites, brand websites, and similar sources.</p>
+
+    <h3>2. No Guarantee of Code Success</h3>
+    <p>We do not guarantee that any promo code or discount will work. Codes may be expired, invalid, region-restricted, or otherwise unusable. We provide information for informational purposes only. You use codes at your own risk.</p>
+
+    <h3>3. Subscriptions and Payments</h3>
+    <p>Cuddy offers a free tier and a paid Pro subscription ($4.99/month). By subscribing to Pro:</p>
+    <ul>
+        <li>Payment is charged to your Apple ID account at confirmation of purchase.</li>
+        <li>Subscription automatically renews unless cancelled at least 24 hours before the end of the current period.</li>
+        <li>Your account will be charged for renewal within 24 hours prior to the end of the current period.</li>
+        <li>You can manage and cancel subscriptions in your device Settings under Apple ID &gt; Subscriptions.</li>
+        <li>Refunds are subject to Apple’s refund policy.</li>
+    </ul>
+
+    <h3>4. Advertising</h3>
+    <p>The free version of Cuddy may display advertisements (including banner and interstitial ads) provided by third parties such as Google AdMob. Pro subscribers do not see video or interstitial ads. Ad content and targeting are managed by third-party ad networks.</p>
+
+    <h3>5. Acceptable Use</h3>
+    <p>You agree to use the app only for lawful purposes. You may not use it to harm others, violate laws, or abuse any service or third party.</p>
+
+    <h3>6. Disclaimers</h3>
+    <p>The app and its content are provided “as is” without warranties of any kind. We are not responsible for the accuracy, availability, or legality of any promo codes or linked websites.</p>
+
+    <h3>7. Limitation of Liability</h3>
+    <p>To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the app.</p>
+
+    <h3>8. Changes</h3>
+    <p>We may update these terms from time to time. Continued use of the app after changes constitutes acceptance of the updated terms.</p>
+
+    <h2 id="privacy">Privacy Policy</h2>
+    <p><em>Last updated: February 2026</em></p>
+    <p>Cuddy (“we” or “the app”) respects your privacy. This policy describes how we handle information when you use our app.</p>
+
+    <h3>1. Information We Collect</h3>
+    <p>We may collect or process:</p>
+    <ul>
+        <li><strong>Device location (country)</strong> – Used to show promo codes relevant to your region. Location is used only for country-level detection when you allow it.</li>
+        <li><strong>Search queries</strong> – The brands or businesses you search for are used to fetch promo codes. This data is sent to our service provider to perform the search.</li>
+        <li><strong>Subscription status</strong> – Your Pro subscription status is managed by Apple and stored locally to adjust app features.</li>
+    </ul>
+
+    <h3>2. Advertising</h3>
+    <p>The free version of Cuddy shows ads via Google AdMob. AdMob may collect device identifiers, IP address, and usage data for ad delivery and measurement. See <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google’s Privacy Policy</a> for details. Pro subscribers do not see video or interstitial ads.</p>
+
+    <h3>3. Subscriptions and Payments</h3>
+    <p>Subscriptions are processed by Apple. We do not store your payment details. Apple may share limited information (e.g. transaction status) with us. Payment and billing data are governed by Apple’s policies.</p>
+
+    <h3>4. How We Use Information</h3>
+    <p>We use the information described above to:</p>
+    <ul>
+        <li>Provide and improve the app</li>
+        <li>Return relevant promo codes for your country</li>
+        <li>Manage subscription entitlements</li>
+    </ul>
+
+    <h3>5. Data Sharing</h3>
+    <p>We do not sell your personal data. We may share data with service providers, ad networks (e.g. AdMob), and Apple for subscription processing.</p>
+
+    <h3>6. Data Retention</h3>
+    <p>We retain data only as long as needed to provide the service. Local app data is stored on your device.</p>
+
+    <h3>7. Your Rights</h3>
+    <p>Depending on your location, you may have rights to access, correct, or delete your data. You can disable location access in your device settings. To manage subscriptions, use your iPhone Settings under Apple ID &gt; Subscriptions.</p>
+
+    <h3>8. Children</h3>
+    <p>Cuddy is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+
+    <h3>9. Changes</h3>
+    <p>We may update this policy from time to time. Continued use of the app after changes constitutes acceptance of the updated policy.</p>
+
+    <h3>10. Contact</h3>
+    <p>For questions about these terms or privacy, please contact us at hot.app.contact@gmail.com.</p>
+</body>
+</html>
