@@ -17,6 +17,7 @@
         }
         .nav {
             display: flex;
+            flex-wrap: wrap;
             gap: 24px;
             margin-bottom: 2rem;
             padding-bottom: 1rem;
@@ -35,9 +36,12 @@
             margin-top: 2rem;
             margin-bottom: 0.5rem;
         }
+        h3 { color: #996626; font-size: 1rem; margin-top: 1.25rem; margin-bottom: 0.35rem; }
         p { margin: 0 0 1rem; }
         ul { margin: 0 0 1rem; padding-left: 1.5rem; }
+        ol { margin: 0 0 1rem; padding-left: 1.5rem; }
         a { color: #cc8033; }
+        .support-email { font-weight: 600; }
     </style>
 </head>
 <body>
@@ -45,6 +49,7 @@
     <nav class="nav">
         <a href="#terms">Terms of Service</a>
         <a href="#privacy">Privacy Policy</a>
+        <a href="#support">Support</a>
     </nav>
 
     <h2 id="terms">Terms of Service</h2>
@@ -58,17 +63,21 @@
     <p>We do not guarantee that any promo code or discount will work. Codes may be expired, invalid, region-restricted, or otherwise unusable. We provide information for informational purposes only. You use codes at your own risk.</p>
 
     <h3>3. Subscriptions and Payments</h3>
-    <p>Cuddy offers a free tier and a paid Pro subscription ($4.99/month). By subscribing to Pro:</p>
+    <p>Cuddy has two plans:</p>
     <ul>
-        <li>Payment is charged to your Apple ID account at confirmation of purchase.</li>
-        <li>Subscription automatically renews unless cancelled at least 24 hours before the end of the current period.</li>
-        <li>Your account will be charged for renewal within 24 hours prior to the end of the current period.</li>
-        <li>You can manage and cancel subscriptions in your device Settings under Apple ID &gt; Subscriptions.</li>
-        <li>Refunds are subject to Apple’s refund policy.</li>
+        <li><strong>Free</strong> – Search up to 3 brands per day. Includes ads.</li>
+        <li><strong>Pro</strong> – $4.99/month. Unlimited searches, no video or interstitial ads, no ads between results, and improved AI search.</li>
+    </ul>
+    <p>When you subscribe to Pro:</p>
+    <ul>
+        <li>Payment is charged to your Apple ID at purchase.</li>
+        <li>Your subscription renews automatically each month unless you cancel at least 24 hours before the end of the current period.</li>
+        <li>Manage or cancel anytime in <strong>Settings → Apple ID → Subscriptions</strong>.</li>
+        <li>Refunds follow Apple’s refund policy.</li>
     </ul>
 
     <h3>4. Advertising</h3>
-    <p>The free version of Cuddy may display advertisements (including banner and interstitial ads) provided by third parties such as Google AdMob. Pro subscribers do not see video or interstitial ads. Ad content and targeting are managed by third-party ad networks.</p>
+    <p>The free version may show banner and video ads. Pro subscribers do not see video or interstitial ads. Ad content is provided by third parties such as Google AdMob.</p>
 
     <h3>5. Acceptable Use</h3>
     <p>You agree to use the app only for lawful purposes. You may not use it to harm others, violate laws, or abuse any service or third party.</p>
@@ -123,7 +132,18 @@
     <h3>9. Changes</h3>
     <p>We may update this policy from time to time. Continued use of the app after changes constitutes acceptance of the updated policy.</p>
 
-    <h3>10. Contact</h3>
-    <p>For questions about these terms or privacy, please contact us at hot.app.contact@gmail.com.</p>
+    <h2 id="support">Support</h2>
+    <h3>How to Use Cuddy</h3>
+    <p>Find promo codes for your favourite brands in a few taps:</p>
+    <ol>
+        <li>Type a business or brand name in the search bar and tap <strong>Add</strong>. You can add multiple brands for one search.</li>
+        <li>Tap <strong>Find Promo Codes</strong> to search.</li>
+        <li>Wait for results to load. Codes will appear with discount details, copy buttons, and links to shop.</li>
+        <li>Tap a code to copy it, or tap <strong>Shop Now</strong> to open the brand’s website.</li>
+    </ol>
+    <p><strong>Free:</strong> Up to 3 brands per day. <strong>Pro:</strong> Unlimited searches, no video ads, and improved results.</p>
+
+    <h3>Contact Us</h3>
+    <p>Need help or have a question? Contact us at <a href="mailto:hot.app.contact@gmail.com" class="support-email">hot.app.contact@gmail.com</a>. We aim to respond as soon as possible.</p>
 </body>
 </html>
